@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Admin\Documents\EOA-Student\EOA-Student\EOA-Student.jar</jar>
+  <outfile>C:\Users\Admin\Documents\EOA-Student\EOA-Student\EOA-Student.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://www.oracle.com/java/technologies/downloads/#jdk18-windows</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Admin\Documents\EOA-Student\EOA-Student\Logo.ico</icon>
+  <jre>
+    <path>jdk-18.0.2.1</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>18</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>2.7.56.8</fileVersion>
+    <txtFileVersion>2.7.56.8</txtFileVersion>
+    <fileDescription>Exam Online Application for Student</fileDescription>
+    <copyright>EOA Team</copyright>
+    <productVersion>2.7.56.8</productVersion>
+    <txtProductVersion>2.7.56.8</txtProductVersion>
+    <productName>EOA-Student</productName>
+    <companyName>EOATEAM</companyName>
+    <internalName>EOA-Student</internalName>
+    <originalFilename>EOA-Student.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
