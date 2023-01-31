@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90229487/212711591-149ef8ba-8797-4619-92a0-3a6f49441d5e.png" width = "50%">
   <br><br>
-  <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/github/badge/license-GPL%203.0%20license-green" alt="GitHub license"/></a>
+  <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/license-GPL%203.0%20license-green" alt="GitHub license"/></a>
   <a href="https://pypi.org/project/face-recognition/"><img src="https://img.shields.io/badge/Python-Face%20Recognition-blue" alt="Face Recognition"></a>
   <a href="https://opencv.org/releases/"><img src="https://img.shields.io/badge/OpenCV-Face%20Detection-brightgreen" alt="Face Detection"></a>
   <a href="https://cloudinary.com/"><img src="https://img.shields.io/badge/Cloud-Cloudinary-blue" alt="Cloudinary"></a>
