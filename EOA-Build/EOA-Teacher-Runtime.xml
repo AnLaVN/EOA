@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>dist\EOA-Teacher.jar</jar>
+  <outfile>EOA-Teacher\EOA-Teacher.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://www.oracle.com/java/technologies/downloads/#jdk18-windows</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>EOA-Teacher\Logo.ico</icon>
+  <jre>
+    <path>jdk-18.0.2.1</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>18</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>2.7.105.8</fileVersion>
+    <txtFileVersion>2.7.105.8</txtFileVersion>
+    <fileDescription>Exam Online Application for Teacher</fileDescription>
+    <copyright>EOA Team</copyright>
+    <productVersion>2.7.105.8</productVersion>
+    <txtProductVersion>2.7.105.8</txtProductVersion>
+    <productName>EOA-Teacher</productName>
+    <companyName>EOATEAM</companyName>
+    <internalName>EOA-Teacher</internalName>
+    <originalFilename>EOA-Teacher.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
