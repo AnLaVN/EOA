@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft DLC</title>
+</head>
+<body>
+    <div class="row justify-content-center m-0 p-2 pt-5 pt-xl-5">
+        <div class="col-12 col-md-8 col-lg-6 text-center m-0 m-xl-6 p-0 p-xl-4">
+            <h3 class="fontH">DLC DÀNH CHO MINECRAFT</h3>
+            <p class="fontP">Tham gia sâu hơn vào Dungeon Minecraft với DLC(Nội dung có thể tải xuống)! Thử thách bản thân và phi hành đoàn của bạn với các nhiệm vụ, mob, thiết bị mới và hơn thế nữa!</p>
+        </div>
+    </div>
+    <div class="row justify-content-center m-0">
+        <div class="card m-3 p-0 DLCCard" style="width: 19rem;" ng-repeat="dlc in ListDLC">
+            <img src="{{dlc.Image}}" class="card-img-top">
+            <div class="card-body p-4">
+                <h5 class="card-title fontH">{{dlc.Name}}</h5>
+                <p class="card-text fontP">{{dlc.Text}}</p>
+            </div>
+            <div class="card-footer text-center footerC"><a href="#!DLC/{{$index}}" class="MCButton" ng-click="ScrollUp()">TÌM HIỂU THÊM</a></div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,361 @@
+@font-face {
+    font-family: "Minecraft-Ten";
+    src: url("//cdn.shopify.com/s/files/1/0266/4841/2351/t/27/assets/Minecraft-Ten.woff?v=117740519252934258961668030118") format("woff"), url("//cdn.shopify.com/s/files/1/0266/4841/2351/t/27/assets/Minecraft-Ten.woff2?v=132088595142409661261668030118") format("woff2"); }  
+@font-face {
+    font-family: "NotoSans-Bold";
+    src: url("//cdn.shopify.com/s/files/1/0266/4841/2351/t/27/assets/NotoSans-Bold.woff?v=174965189005659812701668030118") format("woff"), url("//cdn.shopify.com/s/files/1/0266/4841/2351/t/27/assets/NotoSans-Bold.woff2?v=16089708071501136451668030118") format("woff2"); }
+/* Webfont: MinecraftTen */@font-face {
+    font-family: 'MinecraftTen';
+    src: url('MinecraftTen.woff') format('woff2'), url('MinecraftTen.woff') format('woff2'); 
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+.navitem {
+    font-style: normal;
+    font-weight: 700;
+    font-family: "Noto Sans";
+    font-size: .75rem;
+    letter-spacing: .08em;
+    text-align: center;
+    text-transform: uppercase;
+    outline-offset: -2px;
+}
+#SlideMC1 .carousel-item {
+    min-height: 585px; height: 33vw;
+}
+#SlideMC1 .carousel-item img {
+    object-fit: cover;
+    width: 100%;
+    min-height: 100%;
+}
+
+.btnlearn {
+    color: #6f2900;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    text-shadow: 0 2px 0 #ffcc6a;
+    text-transform: uppercase;
+}
+.btnCart{
+    position: relative;
+    overflow: hidden;
+    transition: .2s ease;
+    width: 150px;
+    padding: 10px 0;
+    background: #0E8543;
+    border-top: 3px solid #5fab85!important;
+    border-left: 3px solid #5fab85!important;
+    border-right: 3px solid #005a2a!important;
+    border-bottom: 3px solid #005a2a!important;
+    letter-spacing: 1px!important;
+    color: #fff;
+    font-family: NotoSans-Bold!important;
+    text-transform: uppercase!important;
+    border-radius: 0!important;
+    user-select: none;
+    min-width: 90px;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    line-height: 1.42;
+    text-decoration: none;
+    text-align: center;
+    white-space: normal;
+    font-size: 13px;
+    font-weight: 700;
+    display: inline-block;
+    margin: 0;
+}
+.btnCart-sm{
+    min-width: 90px;
+    font-weight: 400;
+    font-size: 12px;
+    background: #0E8543!important;
+    border-top: 3px solid #5fab85!important;
+    border-left: 3px solid #5fab85!important;
+    border-right: 3px solid #005a2a!important;
+    border-bottom: 3px solid #005a2a!important;
+    letter-spacing: 1px!important;
+    padding: 10px 20px;
+    color: #fff!important;
+    font-family: NotoSans-Bold!important;
+    text-transform: uppercase!important;
+    border: 1px solid #e8e8e1;
+    line-height: 17.04px;
+    text-decoration: none;
+    text-align: center;
+    white-space: normal;
+    word-spacing: 0px;
+    width: auto;
+}
+.btnCart:hover, .btnCart-sm:hover {
+    background: #005a2a !important;
+    border-top: 3px solid #0E8543 !important;
+    border-left: 3px solid #0E8543 !important;
+    border-right: 3px solid #5fab85 !important;
+    border-bottom: 3px solid #5fab85 !important;
+}
+.GH{
+    font-family: "Minecraft-Ten";
+    letter-spacing: normal;
+    font-size: 1.875em;
+    font-weight: 400;
+    line-height: 1;
+    margin: 0 0 15px;
+    color: #454442;
+}
+
+.loginredeem {
+    font-style: normal;
+    font-weight: 700;
+    font-family: "Noto Sans";
+    font-size: .75rem;
+    letter-spacing: .08em;
+    text-align: center;
+    text-transform: uppercase;
+    outline-offset: -2px;
+}
+
+.fontH {
+    font-family: "Noto Sans";
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 1px;
+}
+
+.fontP {
+    font-size: 1pc;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+}
+
+.footerC {
+    display: flex;
+    width: 100%;
+    height: 95px;
+    background: #7b1a37;
+    height: 95px;
+    justify-content: center;
+}
+
+.MCButton {
+    margin: auto;
+    padding: 10px 20px;
+    border: none;
+    background: #ffb054;
+    color: #6f2900;
+    font-family: Noto Sans, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    text-shadow: 0 2px 0 #ffcc6a;
+    text-transform: uppercase;
+    text-decoration: none;
+    box-shadow: inset 0 4px #fce07e, inset 0 -4px #d0750a, inset 4px 0 #df8318, inset -4px 0 #ffbb54, inset 0 4px rgb(0 0 0 / 10%);
+    transition: .3s transform cubic-bezier(.155, 1.105, .295, 1.12), .3s box-shadow, .3s -webkit-transform cubic-bezier(.155, 1.105, .295, 1.12);
+}
+
+.MCButton:hover {
+    background: #313131;
+    color: #fff !important;
+    text-shadow: 0 2px 0 #000;
+    text-decoration: none;
+    -webkit-box-shadow: inset 0 4px #4d4d4d, inset 0 -4px #151515, inset 4px 0 #151515, inset -4px 0 #606060, inset 0 4px rgba(0, 0, 0, .1);
+    box-shadow: inset 0 4px #4d4d4d, inset 0 -4px #151515, inset 4px 0 #151515, inset -4px 0 #606060, inset 0 4px rgba(0, 0, 0, .1)
+}
+
+.svg-icon {
+    top: -3px;
+    left: -1.5em;
+    font-size: 16px !important;
+    width: 1em;
+    height: 1em;
+    fill: #196d17;
+}
+.Legend-svg-icon{
+    top: -3px;
+    left: -1.5em;
+    font-size: 16px !important;
+    width: 1em;
+    height: 1em;
+    fill: #00337d!important;
+}
+.Market-svg-icon{
+    top: -3px;
+    left: -1.5em;
+    font-size: 16px !important;
+    width: 1em;
+    height: 1em;
+    fill: #dfdf1f!important;
+}
+
+
+.ArrowText {
+    color: #196d17;
+    font-weight: 700;
+    position: relative;
+    text-transform: uppercase;
+    text-align: inherit;
+    display: block;
+    font-family: "Noto Sans";
+}
+
+.DLCCard {
+    background: #fff;
+    -webkit-transition: all .3s;
+    transition: all .3s
+}
+
+.DLCCard:hover {
+    transform: scale(1.05);
+    -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, .23), 0 8px 15px rgba(0, 0, 0, .18), 0 4px 4px rgba(0, 0, 0, .15);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .23), 0 8px 15px rgba(0, 0, 0, .18), 0 4px 4px rgba(0, 0, 0, .15)
+}
+
+.NEWCard {
+    width: 14rem;
+    display: block;
+    position: relative;
+    overflow: hidden;
+    background-color: transparent
+}
+
+.NEWCard>.card-img-overlay {
+    width: 100%;
+    height: 100%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.NEWCard>img {
+    transition: all .3s ease-in;
+}
+
+.NEWCard>.card-img-overlay>div {
+    display: block;
+    background-color: rgba(0, 0, 0, .7);
+    min-height: 84px;
+    transition: all .3s ease-in;
+    position: relative;
+    top: 65px;
+}
+
+.NEWCard>.card-img-overlay>div>p {
+    font-size: 14px;
+}
+
+.NEWCard:hover>img {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.NEWCard:hover>.card-img-overlay>div {
+    transform: translateY(-50px);
+}
+
+.DLCSelect {
+    display: block;
+    height: 46px;
+    width: 100%;
+    margin-bottom: 30px;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #6f2900;
+    background-color: #ffb054;
+    border: none;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+div#Credit2 {
+    text-align: center;
+    margin: 10px auto;
+    color: rgb(255, 255, 255, 0.6);
+    font-size: 40px;
+    max-width: 100%;
+    white-space: nowrap;
+}
+
+div#Credit2>a {
+    color: rgb(255, 255, 255, 0.6);
+    text-decoration: none;
+    transition: all .2s linear;
+}
+
+div#Credit2>a:hover {
+    text-decoration: underline;
+    color: #aa8fd8;
+}
+
+
+.BlueLegends {
+    color: #95e8ff;
+}
+
+a.BlueLegends:hover {
+    color: #fff;
+}
+
+.LegendButton{
+    background-color: #95e8ff;
+    padding: 15px 24px;
+    border: none;
+    line-height: 20px;
+    font-weight: 700;
+    letter-spacing: .03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: all .25s, opacity .75s .5s;
+    font-family: "Noto Sans";
+}
+.ArrowLegend{
+    color: #00337d!important;
+    font-weight: 700;
+    position: relative;
+    text-transform: uppercase;
+    text-align: inherit;
+    margin-left: 1.5em;
+    display: block;
+    font-family: "Noto Sans";
+}
+
+.device-windows          path{fill:#00a2ed}
+.device-launcher         path{fill:#ffb054}
+.device-launcher-steam   path{fill:#00adee}
+.device-xbox             path{fill:#0e7a0d}
+.device-switch           path{fill:#e4000f}
+.device-playstation      path{fill:#003087}
+.logo-container {
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+.logo-container .device-logo {
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    top: 15px;
+    left: 15px
+}
+.TableItem strong{
+    letter-spacing: 1px!important;
+    text-transform: capitalize!important;
+    font-size: 16px;
+    font-family: Minecraft-Ten;
+}
+.fontDLC {
+    font-family: "MinecraftTen", Noto Sans, sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+    text-transform: uppercase;
+}
