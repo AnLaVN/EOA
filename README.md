@@ -96,6 +96,6 @@
 
 
 
-# 4. Download / Tải xuống
+# 5. Download / Tải xuống
 - [Websites](https://eoa.somee.com/)
 - [Releases Version](https://github.com/AnLaVN/EOA/releases)
