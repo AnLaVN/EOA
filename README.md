@@ -90,6 +90,12 @@
 </details>
 
 
+
+# 4 Mark / Điểm số
+![image](https://user-images.githubusercontent.com/90229487/218399022-0063932d-fa03-411c-b126-6e45b5d77dc2.png)
+
+
+
 # 4. Download / Tải xuống
 - [Websites](https://eoa.somee.com/)
 - [Releases Version](https://github.com/AnLaVN/EOA/releases)
