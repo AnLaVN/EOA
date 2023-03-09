@@ -92,8 +92,8 @@
 
 
 # 4. Demo / Minh họa
-- EOA-Teacher [Youtube Video](https://www.youtube.com/watch?v=koQNEXeIKQE)
-- EOA-Student [Youtube Video](https://www.youtube.com/watch?v=zhO0LddZhZQ)
+- EOA-Teacher - [Youtube Video](https://www.youtube.com/watch?v=koQNEXeIKQE)
+- EOA-Student - [Youtube Video](https://www.youtube.com/watch?v=zhO0LddZhZQ)
 
 
 
