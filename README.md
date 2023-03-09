@@ -91,12 +91,18 @@
 
 
 
-# 4 Mark / Điểm số
+# 4 Demo / Minh họa
+- EOA-Teacher [Youtube Video](https://www.youtube.com/watch?v=koQNEXeIKQE)
+- EOA-Student [Youtube Video](https://www.youtube.com/watch?v=zhO0LddZhZQ)
+
+
+
+# 5 Mark / Điểm số
 -AnLaVN | La Đặng Bình An
 ![image](https://user-images.githubusercontent.com/90229487/218399022-0063932d-fa03-411c-b126-6e45b5d77dc2.png)
 
 
 
-# 5. Download / Tải xuống
+# 6. Download / Tải xuống
 - [Websites](https://eoa.somee.com/)
 - [Releases Version](https://github.com/AnLaVN/EOA/releases)
