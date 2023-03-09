@@ -26,7 +26,7 @@
 # 2. Team / Đội ngũ
 > - binhtq7 | Trần Quang Bình (Teacher, Support, Tester)
 > - [AnLaVN](https://github.com/AnLaVN) | La Đặng Bình An (Student, Dev SQL, Dev App, Dev Web, Unit Test, Tester)
-> - Dat09 | Trương Thành Đạt (Student, Dev SQL, Tester)
+> - LeThanhDat | Trương Thành Đạt (Student, Dev SQL, Tester)
 
 
 
@@ -92,7 +92,7 @@
 
 
 # 4. Demo / Minh họa
-- EOA-Teacher - [Youtube Video](https://www.youtube.com/watch?v=koQNEXeIKQE)
+- ## EOA-Teacher - [Youtube Video](https://www.youtube.com/watch?v=koQNEXeIKQE)
   
   - ### Exam creation interface / Giao diện tạo buổi thi
   ![image](https://user-images.githubusercontent.com/90229487/224100717-46a48fa2-7fcd-43ff-9cf0-04321f1df15b.png)
@@ -101,8 +101,7 @@
   ![image](https://user-images.githubusercontent.com/90229487/224101304-e86208fd-dca0-4e13-9c32-22850c4c3458.png)
 
 
-
-- EOA-Student - [Youtube Video](https://www.youtube.com/watch?v=zhO0LddZhZQ)
+- ## EOA-Student - [Youtube Video](https://www.youtube.com/watch?v=zhO0LddZhZQ)
 
   - ### Face Detection and Face Recognition / Phát hiện và Nhận diện Khuôn mặt
   ![image](https://user-images.githubusercontent.com/90229487/224098289-e69cb69f-b167-4a55-8d01-6f6df13a78be.png)
@@ -112,11 +111,12 @@
 
 
 
-
-
 # 5. Mark / Điểm số
   - ### AnLaVN | La Đặng Bình An
   ![image](https://user-images.githubusercontent.com/90229487/218399022-0063932d-fa03-411c-b126-6e45b5d77dc2.png)
+  
+  - ### LeThanhDat | Trương Thành Đạt
+  ![image](https://user-images.githubusercontent.com/90229487/224111672-17303897-3659-4239-821d-66723d705b07.png)
 
 
 
