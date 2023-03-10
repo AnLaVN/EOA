@@ -113,8 +113,8 @@
 
 # 5. Mark / Điểm số
   - ### AnLaVN | La Đặng Bình An
-  ![image](https://user-images.githubusercontent.com/90229487/218399022-0063932d-fa03-411c-b126-6e45b5d77dc2.png)
-  
+  ![image](https://user-images.githubusercontent.com/90229487/224369157-bff9dbe2-4d77-403e-82ce-8ce3d1691fb5.png)
+
   - ### LeThanhDat | Trương Thành Đạt
   ![image](https://user-images.githubusercontent.com/90229487/224111672-17303897-3659-4239-821d-66723d705b07.png)
 
