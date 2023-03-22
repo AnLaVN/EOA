@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/languages/code-size/AnLaVN/EOA">
   <img src="https://img.shields.io/github/downloads/AnLaVN/EOA/total">
   <a href="https://github.com/AnLaVN/EOA/commits/Releases"><img src="https://img.shields.io/github/commit-activity/w/AnLaVN/EOA"></a>
-  <a href="https://github.com/AnLaVN/EOA/commits/Releases"><img src="https://img.shields.io/github/last-commit/AnLaVN/EOAy"></a>
+  <a href="https://github.com/AnLaVN/EOA/commits/Releases"><img src="https://img.shields.io/github/last-commit/AnLaVN/EOA"></a>
   <a href="https://github.com/AnLaVN/EOA/releases"><img src="https://img.shields.io/github/release-date/AnLaVN/EOA"></a>
 </p>
 
