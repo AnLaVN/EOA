@@ -31,7 +31,7 @@
 
 
 # 2. Team / Đội ngũ
-> - binhtq7 | Trần Quang Bình (Teacher, Support, Tester)
+> - [binhtq7](https://www.youtube.com/@OngMuoiGiao) | Trần Quang Bình (Teacher, Support, Tester)
 > - [AnLaVN](https://github.com/AnLaVN) | La Đặng Bình An (Student, Dev SQL, Dev App, Dev Web, Unit Test, Tester)
 > - [LeThanhDat](https://github.com/TTDAT25) | Trương Thành Đạt (Student, Dev SQL, Tester)
 
